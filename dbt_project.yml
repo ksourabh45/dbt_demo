@@ -1,4 +1,4 @@
-name: dbt_learning_analytics
+name: dbt_demo
 version: "0.1.0"
 require-dbt-version: [">=1.0.0", "<2.0.0"]
 
